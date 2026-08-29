@@ -38,6 +38,7 @@ Campus vendors frequently rely on mental math or unorganized paper ledgers durin
 | :--- | :--- | :--- |
 | **Vendor** | Pop-up shop operator | A foolproof system to accurately tally sales and reconcile the day's revenue against remaining stock |
 | **Customer** | Student shopper | Fast service and a clear, itemized breakdown of their purchase |
+| **Treasurer** | Event Finance Manager | A fast way to audit end-of-day sales totals from pop-up vendors |
 
 ## Proposed CLI Interface
 
