@@ -14,7 +14,7 @@ Campus vendors frequently rely on mental math or unorganized paper ledgers durin
 
 ## Target Users
 
-- Student-led food and retail startups
+- Student-led meal and retail startups
 - Pop-up vendors at university fairs and departmental events
 - Volunteer treasurers managing temporary campus sales
 
